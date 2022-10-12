@@ -1,0 +1,14 @@
+1.Kelas atau kelas adalah sekelompok objek yang memiliki kesamaan. Sedangkan, objek atau objek adalah suatu entitas baik nyata maupun abstrak yang dapat diidentifikasi dan direpresentasikan. Dengan kata lain, objek juga merupakan bagian dari suatu kelas.
+2. Konstruktur
+    Metode yang dijalankan pada awal permulaan program.
+Mutator
+digunakan objek untuk mengubah data baik berupa variabel instan ataupun statis.
+
+3.1.Nama Kelas
+2.Atribut
+3.Metode Set
+4.Method Get untuk jenis
+5.Method Get untuk Merk
+6.Sintaks untuk memanggil kelas
+7.Metode set menginput
+8.Sintaks untuk meng print
