@@ -1,6 +1,6 @@
 import java.util.Set;
 
-public class Soal4 {
+public class No4 {
     static String jenis_hp;
     static int tahun_pembuatan;
 
